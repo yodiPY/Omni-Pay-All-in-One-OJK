@@ -12,12 +12,6 @@ npx expo start
 
 Scan QR dengan **Expo Go** di Android/iOS, atau tekan `a` / `i` untuk emulator.
 
-## Akun Demo
-
-| Field    | Value              |
-|----------|--------------------|
-| Email    | yodi@omnipay.app   |
-| Password | password123        |
 
 ## Fitur Utama
 
