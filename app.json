@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "OmniPay",
+    "slug": "omnipay",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon-omnipay.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/icon-omnipay.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#111827"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.omnipay.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon-omnipay.png",
+        "backgroundColor": "#111827"
+      },
+      "package": "com.omnipay.app",
+      "softwareKeyboardLayoutMode": "resize"
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow OmniPay to use the front camera for Face ID login."
+        }
+      ],
+      "expo-font"
+    ]
+  }
+}
