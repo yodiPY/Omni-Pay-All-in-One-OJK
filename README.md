@@ -12,6 +12,24 @@ npx expo start
 
 Scan QR dengan **Expo Go** di Android/iOS, atau tekan `a` / `i` untuk emulator.
 
+## 📱 Tampilan Aplikasi
+
+<div align="center">
+
+<img src="screenshots/Login.jpeg" width="220" />
+<img src="screenshots/dashboard.jpeg" width="220" />
+<img src="screenshots/transaksi.jpeg" width="220" />
+
+</div>
+
+<div align="center">
+
+<img src="screenshots/koneksi.jpeg" width="220" />
+<img src="screenshots/Face id.jpeg" width="220" />
+<img src="screenshots/pengaturan akun.jpeg" width="220" />
+
+</div>
+
 
 ## Fitur Utama
 
