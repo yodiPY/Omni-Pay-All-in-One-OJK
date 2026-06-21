@@ -17,7 +17,7 @@ Scan QR dengan **Expo Go** di Android/iOS, atau tekan `a` / `i` untuk emulator.
 <div align="center">
 
 <img src="screenshots/Login.jpeg" width="220" />
-<img src="screenshots/dashboard.jpeg" width="220" />
+<img src="screenshots/dashbooard.jpeg" width="220" />
 <img src="screenshots/transaksi.jpeg" width="220" />
 
 </div>
