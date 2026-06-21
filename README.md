@@ -5,7 +5,7 @@ OmniPay adalah aplikasi pusat kontrol keuangan berbasis React Native (Expo) untu
 ## Menjalankan
 
 ```bash
-cd nexawallet
+cd omnipay
 npm install
 npx expo start
 ```
